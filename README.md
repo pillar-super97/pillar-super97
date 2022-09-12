@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Weston Jin!
+Welcome
 	<a href="https://github.com/pillar-super97" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -19,12 +19,17 @@ Hi, I'm Weston Jin!
 	</a>
 </p>
 
+## 🧑 About me:
+
+<p>
+Responsible for 10+ years of experience with various kinds of skills. Proved visionary leadership in many opportunities and launched 10+ huge projects including a high level of project management. Proficient in 7 years of Back-end development, 4 years of Front-end development. Relevant skills include Database management, Software architecture, Server management, Deployment management. Seeking a core developer position with Back-end/Front-end experiences, where my skills can be leveraged to develop, maintain and optimize the company’s product.
+</p>
+
 <hr>
 
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I have a strong interest in Web development, Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
@@ -33,11 +38,11 @@ Hi, I'm Weston Jin!
 </pre>
 <hr>
 
-## 🤝 Connect with me
+<!-- ## 🤝 Connect with me
 <p align="center">
 	<a href="mailto:pillar0124@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/pillar-super97"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+</p> -->
 
 ## 🛠️ My Favorite Tools
 
@@ -51,6 +56,12 @@ Hi, I'm Weston Jin!
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
+![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=BootStrap)&nbsp;
+
+![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=Web3.js)&nbsp;
+![Blockchain](https://img.shields.io/badge/-Blockchain-05122A?style=flat&logo=Blockchain)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=BootStrap)&nbsp;
