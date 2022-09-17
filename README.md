@@ -34,7 +34,7 @@ Responsible for 10+ years of experience with various kinds of skills. Proved vis
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
 </pre>
 <hr>
 
